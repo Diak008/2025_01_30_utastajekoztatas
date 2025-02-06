@@ -9,8 +9,21 @@ table {
     /* betűméret */
   }
 td{
-    background-color: darkgreen;
+    background-color: rgb(0, 138, 0);
 }
 tr{
-    background-color: rgb(0, 88, 27);
+    background-color: rgb(0, 85, 25);
+}
+#keses{
+    background-color: red;
+}
+#eredeti{
+    background-color: rgb(0, 235, 0);
+    color: black;
+}
+#kep{
+    height: 50px;
+}
+.elsö_oszlop{
+    background-color: aqua;
 }
