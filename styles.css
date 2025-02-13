@@ -1,6 +1,6 @@
 table {
     border: 10px solid;
-    background-color: rgb(138, 255, 138);
+    background-color: darkblue;
     color: rgb(255, 191, 96); 
     /* betűszín */
     font-family: 'Courier New', Courier, monospace;
@@ -9,17 +9,21 @@ table {
     /* betűméret */
     border-color: black;
   }
+th{
+    background-color: rgb(0, 0, 190);
+    color: rgb(165, 122, 58);
+  }
 td{
-    background-color: rgb(0, 138, 0);
+    background-color: blue; 
 }
 tr{
-    background-color: rgb(0, 85, 25);
+    background-color: rgb(56, 167, 204);
 }
 #keses{
-    background-color: red;
+    background-color: purple;
 }
 #eredeti{
-    background-color: rgb(0, 235, 0);
+    background-color: rgb(157, 109, 235);
     color: black;
 }
 #kep{
