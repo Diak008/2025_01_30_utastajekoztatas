@@ -1,0 +1,21 @@
+table {
+    border: 10px solid;
+    background-color: darkblue;
+    color: rgb(255, 191, 96); 
+    /* betűszín */
+    font-family: 'Courier New', Courier, monospace;
+    /* betűstílus */
+    font-size: 30px;
+    /* betűméret */
+    border-color: black;
+  }
+th{
+    background-color: rgb(0, 0, 190);
+    color: rgb(165, 122, 58);
+  }
+td{
+    background-color: blue; 
+}
+tr{
+    background-color: rgb(56, 167, 204);
+}
