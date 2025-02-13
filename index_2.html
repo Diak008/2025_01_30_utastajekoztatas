@@ -4,11 +4,20 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Máv indulójáratok</title>
+    <link rel="stylesheet" href="style_1.css">
 </head>
 <body>
     <!--table>(thead>tr>th*6)(tbody>tr*5>td*6)-->
     <table>
         <thead>
+            <tr>
+                <th>8:43:13</th>
+                <th>Induló járatok</th>
+                <th></th>
+                <th></th>
+                <th>Departures</th>
+                <th><img id="kep" src="mav_logo.png" alt="Máv logó" title="Máv logó"></th>
+            </tr>
             <tr>
                 <th>Tervezett indulás</th>
                 <th>Indulás</th>
@@ -20,15 +29,15 @@
         </thead>
         <tbody>
             <tr>
-                <td>08:31</td>
-                <td>08:43</td>
+                <td class="indul">08:31</td>
+                <td id="keses">08:43</td>
                 <td>717</td>
                 <td>Budapest-Nyugati**</td>
                 <td>Kecskemét-Cegléd</td>
                 <td>5</td>
             </tr>
             <tr>
-                <td>08:33</td>
+                <td class="indul">08:33</td>
                 <td></td>
                 <td>7022</td>
                 <td>Szeged</td>

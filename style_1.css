@@ -19,3 +19,13 @@ td{
 tr{
     background-color: rgb(56, 167, 204);
 }
+#kep{
+    height: 50px;
+}
+#keses{
+    background-color: purple;
+}
+#indul{
+    background-color: rgb(157, 109, 235);
+    color: black;
+}
