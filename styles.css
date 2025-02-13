@@ -1,5 +1,5 @@
 table {
-    border: 1px solid;
+    border: 10px solid;
     background-color: rgb(138, 255, 138);
     color: rgb(255, 191, 96); 
     /* betűszín */
@@ -7,6 +7,7 @@ table {
     /* betűstílus */
     font-size: 30px;
     /* betűméret */
+    border-color: black;
   }
 td{
     background-color: rgb(0, 138, 0);
