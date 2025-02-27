@@ -1,34 +1,37 @@
 table {
     border: 10px solid;
     background-color: rgb(144, 205, 255);
-    color: rgb(197, 158, 98); 
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-size: 30px;
     border-color: black;
+    
   }
-th{
-    background-color: rgb(0, 0, 139);
-    color: rgb(117, 82, 29);
-  }
-td{
+
+/* td{
     background-color: rgb(3, 3, 206); 
-}
-tr{
-    background-color: rgb(62, 186, 228);
+} */
+th{
+    background-color: blue;
 }
 #kep{
     height: 50px;
 }
 #keses{
-    background-color: rgb(66, 3, 150);
+    background-color: rgb(87, 179, 255);
 }
 .indul{
-    background-color: rgb(126, 87, 189);
+    background-color: rgb(29, 248, 0);
     color: black;
     font-family: 'Courier New', Courier, monospace;
 }
-.oszlop{
-    background-color: rgb(71, 71, 255);
-    font-family: 'Courier New', Courier, monospace;
-}
+
 /*css steyle- w3 school */
+tbody tr:nth-child(odd){
+    background-color: aqua;
+}
+tbody tr:nth-child(even){
+    background-color: blue;
+}
+#induló_keses{
+    background-color: darkblue;
+}
