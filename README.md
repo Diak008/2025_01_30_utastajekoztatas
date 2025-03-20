@@ -1,17 +1,17 @@
 ## Máv utastájékoztatás
 Ez a projekt egy **HTML** és **CSS** használatával a Máv-nál látható utastéjékoztatásra használt kijelzőkön látható táblázatokat jeleníti meg.
 
-### Funkciók
-- Induló és érkező vonatok táblázatan ábrázolva
-- A vonat célállomását és induló állomását is megjeleníti
+### 📌Funkciók
+- 🎫Induló és érkező vonatok táblázatan ábrázolva
+- 🚉A vonat célállomását és induló állomását is megjeleníti
 
-### Használat
+### 🕹️ Használat
 Egyszerűen nyisd meg a böngészőben ezt a linket https://diak008.github.io/2025_01_30_utastajekoztatas/ és élvezd a látványt.
  
-#### Élő demó
+#### ⚔️ Élő demó
 A projekt meg nyizható ittt is: [Máv utastájékoztató](https://diak008.github.io/2025_01_30_utastajekoztatás/)
 
-### Alap HTML szerkezet
+### 🌐 Alap HTML szerkezet
 ˙˙˙html
 <!DOCTYPE html>
 <html lang="hu">
