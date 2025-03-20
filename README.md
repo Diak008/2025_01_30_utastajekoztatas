@@ -9,10 +9,10 @@ Ez a projekt egy **HTML** és **CSS** használatával a Máv-nál látható utas
 Egyszerűen nyisd meg a böngészőben ezt a linket https://diak008.github.io/2025_01_30_utastajekoztatas/ és élvezd a látványt.
  
 #### ⚔️ Élő demó
-A projekt meg nyizható ittt is: [Máv utastájékoztató](https://diak008.github.io/2025_01_30_utastajekoztatas/)
+A projekt meg nyitható ittt is: [Máv utastájékoztató](https://diak008.github.io/2025_01_30_utastajekoztatas/)
 
 ### 🌐 Alap HTML szerkezet
-˙˙˙html
+```html
 <!DOCTYPE html>
 <html lang="hu">
 <head>
@@ -80,9 +80,10 @@ A projekt meg nyizható ittt is: [Máv utastájékoztató](https://diak008.githu
     <a href="index_2.html">Induló járatok</a>
 </body>
 </html>
+```
 
 #### 🌍Alap CSS szerkezet
-˙˙˙CSS
+```CSS
 table {
     border: 10px solid;
     background-color: darkblue;
@@ -94,3 +95,4 @@ table {
     /* betűméret */
     border-color: black;
   }
+  ```
