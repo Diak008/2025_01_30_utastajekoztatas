@@ -22,73 +22,61 @@ A projekt meg nyizható ittt is: [Máv utastájékoztató](https://diak008.githu
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-    <table>
-        <thead>
-            <tr>
-                <th>8:43:13</th>
-                <th colspan="4">Máv érkező járatok</th>
-                <th> <img id="kep" src="mav_logo.png" alt="máv logó" title="Máv logó"></th>  
-            </tr>
-            <tr>
-                <th>Tervezett érkezés</th>
-                <th>Érkezés</th>
-                <th>Vonat</th>
-                <th>Honnan</th>
-                <th>Hova</th>
-                <th>Vágány</th>  
-            </tr>
-        </thead>    
-        <tbody>
-            <tr>
-                <td id="eredeti">8:30</td>
-                <td id="keses">8:42</td>
-                <Td>IC</Td>
-                <Td>Szeged</Td>
-                <Td>Szatymaz-Kistelek</Td>
-                <Td>5</Td>
-            </tr>
-            <tr>
-                <td class="elsö_oszlop">9:22</td>
-                <td>  </td>
-                <Td>Sz</Td>
-                <Td>Szentes</Td>
-                <Td>Csongrád</Td>
-                <Td>2</Td>
-            </tr>
-            <tr>
-                <td class="elsö_oszlop">9:22</td>
-                <td> </td>
-                <Td>IC</Td>
-                <Td>Szeged</Td>
-                <Td>Szatymaz-Kistelek</Td>
-                <Td>4</Td>
-            </tr>
-            <tr>
-                <td class="elsö_oszlop">9:24</td>
-                <td> </td>
-                <Td>Sz</Td>
-                <Td>Lakitelek</Td>
-                <Td>Tiszaalpár</Td>
-                <Td>1</Td>
-            </tr>
-            <tr>
-                <td class="elsö_oszlop">9:27</td>
-                <td> </td>
-                <Td>IC</Td>
-                <Td>Nyugati**Budapest</Td>
-                <Td>Cegléd-Kecskemét</Td>
-                <Td>5</Td>
-            </tr>
-            <tr>
-                <td class="elsö_oszlop">9:30</td>
-                <td> </td>
-                <Td>Ic</Td>
-                <Td>Szeged</Td>
-                <Td>Szatymaz-Kistelek</Td>
-                <Td>3</Td>
-            </tr>
-        </tbody>
-    </table>
+<table>
+    <thead>
+        <tr>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+    </tbody>
+</table>
+    
     <a href="index_2.html">Induló járatok</a>
 </body>
 </html>
