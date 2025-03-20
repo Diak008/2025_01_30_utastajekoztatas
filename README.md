@@ -80,3 +80,17 @@ A projekt meg nyizható ittt is: [Máv utastájékoztató](https://diak008.githu
     <a href="index_2.html">Induló járatok</a>
 </body>
 </html>
+
+#### 🌍Alap CSS szerkezet
+˙˙˙CSS
+table {
+    border: 10px solid;
+    background-color: darkblue;
+    color: rgb(255, 191, 96); 
+    /* betűszín */
+    font-family: 'Courier New', Courier, monospace;
+    /* betűstílus */
+    font-size: 30px;
+    /* betűméret */
+    border-color: black;
+  }
